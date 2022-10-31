@@ -3,3 +3,4 @@ Modifying file1 in master branch, adding second line in File1.
 Adding line 3 in file 1 and modifying line 1 in File 1 in master branch.
 Adding first line in master branch.
 Adding second line from feature branch.
+Modifying the file1 to test merge command in feature branch.
