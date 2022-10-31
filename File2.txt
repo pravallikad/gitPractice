@@ -1,1 +1,2 @@
 This is File2 added in master branch.
+This is File2 adding line 2 in master branch.
