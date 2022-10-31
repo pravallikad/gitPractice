@@ -1,2 +1,3 @@
 This is File2 added in master branch.
 This is File2 adding line 2 in master branch.
+This is line 3 added in file from Feature branch.
